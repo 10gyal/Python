@@ -1,2 +1,2 @@
-# Python
+# PythonPettyProjects
 Petty Projects
